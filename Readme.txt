@@ -1,6 +1,5 @@
-# Take A Trip
+# College Management
        
-College Management System Using C#.Net
 In this Project Project you will create a c# complete application of college management. 
 The Application starts with a nice looking splash form which leads to a login form.  
 If the user id and password match the database entries, the user will login to the main form.
